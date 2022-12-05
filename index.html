@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fork Me! FCC: Test Suite Template</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+  <div class="title1">
+    <h1 id="title">freeCodeCamp Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve the platform</p>
+  </div>
+  <form id="survey-form">
+    <label id="name-label" for="name">Name</label>
+    <input id="name" type="text" placeholder="Enter your name" required>
+    <label id="email-label" for="email">Email</label>
+    <input id="email" type="email" placeholder="Enter your email" required>
+    <label id="number-label" for="age">Age(optional)</label>
+    <input id="number" type="number" placeholder="Age" min="3" max="30">
+    <label for="role">Which option best describes your current role?</label>
+    <select name="dropdown" id="dropdown" placeholder="Select current role">
+      <option value="default">Select current role</option>
+      <option value="Student">Student</option>
+      <option value="job">Full time job</option>
+      <option value="learner">Full time learner</option>
+      <option value="nosay">Prefer not to say</option>
+      <option value="other">other</option>
+    </select>
+    <div>Would you recommend freeCodeCamp to a friend?</div>
+    <label for="radio-button">
+      <input type="radio" attribute="name" value="attribute">Definitely
+    </label>
+    <label for="radio-button">
+      <input type="radio" attribute="name" value="attribute">May be
+    </label>
+    <label for="radio-button">
+      <input type="radio" attribute="name" value="attribute">Not sure
+    </label>
+    <div>What would you like to see improved? (Check all that apply)</div>
+    <label for="check">
+      <input type="checkbox" name="attribute" value="attribute">Front-end Projects
+    </label>
+    <label for="check">
+      <input type="checkbox" name="attribute" value="attribute">Back-end Projects
+    </label>
+    <label for="check">
+      <input type="checkbox"  name="attribute"  value="attribute">Data Visualization
+    </label>
+    <label for="check">
+      <input type="checkbox"  name="attribute" value="attribute">Challenges
+    </label>
+    <label for="check">
+      <input type="checkbox"  name="attribute" value="attribute">Data Visualization
+    </label>
+    <label for="check">
+      <input type="checkbox"  name="attribute" value="attribute">Open Source Community
+    </label>
+    <label for="check">
+      <input type="checkbox"  name="attribute" value="attribute">Gitter help rooms
+    </label>
+    <label for="check">
+      <input type="checkbox"  name="attribute" value="attribute">Videos
+    </label>
+
+    <label for="comments">Any comments or suggestions?</label>
+    <textarea name="text" id="comments" cols="40" rows="5" placeholder="Enter your comment here...">
+    </textarea>
+
+    <button id="submit">Submit</button>
+  </form>
+</body>|
+
+</html>
