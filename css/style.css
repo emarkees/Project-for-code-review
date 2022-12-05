@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.title1{
+    text-align: center;
+}
+label{
+    display: block;
+}
+body{
+    background-color: palegreen;
+}
+form{
+    margin: 0 30%;
+}
