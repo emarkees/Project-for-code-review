@@ -51,7 +51,9 @@ git@github.com:emarkees/Project-for-code-review.git
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1** Adeyemi Olusola
+👤 **Author1** Jose Alpha
+
+👤 **Author2** Adeyemi Olusola
 
 - GitHub: [@emarkees](https://github.com/emarkees)
 - Twitter: [@McEmarkees](https://twitter.com/McEmarkees)
@@ -69,7 +71,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
- i do appriciate ### Jose Alpha for such a good work.
+ i do appriciate Jose Alpha for such a good workdone.
 
 ## 📝 License <a name="license"></a>
 
