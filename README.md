@@ -69,7 +69,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-    [Jose Alpha]
+ i do appriciate ### Jose Alpha for such a good work.
 
 ## 📝 License <a name="license"></a>
 
